@@ -10,5 +10,5 @@ Basic on about Inputs, var, let, cont, stringManiplication, mathematicalFunction
 | 3  | [string-Maniplications](#)                                                                                                                                                  |
 | 4  | [Mathimatical-functions](#) 
 |
-| 5  | [Heap-deletion](#)                                                                                                                                                          |
+                                                                                                                                                         |
   
