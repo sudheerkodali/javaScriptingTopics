@@ -13,7 +13,7 @@ Basic on about Inputs, var, let, cont, stringManiplication, mathematicalFunction
 
 | 1  | [What-are-output-statements](#) 
 
-![](./what-are-outout-statements/image1.png)
+![](./whatareoutoutstatements/image1.png)
 
 
 
