@@ -8,7 +8,7 @@ Basic on about Inputs, var, let, cont, stringManiplication, mathematicalFunction
 | 1  | [What-are-output-statements](#)                                                                                                                                             |
 | 2  | [Why-we-use-var-let-const](#)                                                                                                                                               |
 | 3  | [string-Maniplications](#)                                                                                                                                                  |
-| 4  | [Mathimatical-functions](#) 
-|
-                                                                                                                                                         |
+| 4  | [Mathimatical-functions](#)                                                                                                                                                 |
+                                                                                                                                                                                  
+                                                                                                                                                                                  
   
