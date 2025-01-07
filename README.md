@@ -17,6 +17,17 @@ Basic on about Inputs, var, let, cont, stringManiplication, mathematicalFunction
 
 
 
+| 2  | [Why-we-use-var-let-const](#)
+
+
+1.var:
+
+
+
+2.Let:
+
+
+3.const:
 
 
 
