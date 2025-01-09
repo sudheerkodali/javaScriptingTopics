@@ -20,11 +20,11 @@ Basic on about Inputs, var, let, cont, stringManiplication, mathematicalFunction
 | 2  | [Why-we-use-var-let-const](#)
 
 
-1.var:
+1.var: Var is the Variable , which always located at left andceach VAR has Data types.
 
 
 
-2.Let:
+2.Let: Key can be used wticevas your logic isage and it can have more data tupes using LET.
 
 
 3.const:
